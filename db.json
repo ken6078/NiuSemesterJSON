@@ -1,5 +1,5 @@
 {
-	"d109-1" :[
+	"d109-1" :
 		{
 			"start_year" : "2020",
 			"start_month" : "09",
@@ -8,8 +8,8 @@
 			"end_month" : "01",
 			"end_day" : "15"
 		}
-	],
-	"d109-2" :[
+	,
+	"d109-2" :
 		{
 			"start_year" : "2021",
 			"start_month" : "02",
@@ -18,8 +18,8 @@
 			"end_month" : "06",
 			"end_day" : "25"
 		}
-	],
-	"d110-1" :[
+	,
+	"d110-1" :
 		{
 			"start_year" : "2021",
 			"start_month" : "09",
@@ -28,8 +28,8 @@
 			"end_month" : "01",
 			"end_day" : "14"
 		}
-	],
-	"d110-2" :[
+	,
+	"d110-2" :
 		{
 			"start_year" : "2022",
 			"start_month" : "02",
@@ -38,5 +38,5 @@
 			"end_month" : "06",
 			"end_day" : "24"
 		}
-	]
+	
 }
