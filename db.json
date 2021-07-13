@@ -1,34 +1,42 @@
 {
-	"d109-1" :[{
-		"start year" : 2020,
-		"start month" : 09,
-		"start day" : 14,
-		"end year" : 2021,
-		"end month" : 01,
-		"end day" : 15,
-	}],
-	"d109-2" :[{
-		"start year" : 2021,
-		"start month" : 02,
-		"start day" : 22,
-		"end year" : 2021,
-		"end month" : 06,
-		"end day" : 25,
-	}],
-	"d110-1" :[{
-		"start year" : 2021,
-		"start month" : 09,
-		"start day" : 13,
-		"end year" : 2022,
-		"end month" : 01,
-		"end day" : 14,
-	}],
-	"d110-2" :[{
-		"start year" : 2022,
-		"start month" : 02,
-		"start day" : 21,
-		"end year" : 2022,
-		"end month" : 06,
-		"end day" : 24,
-	}],
+	"d109-1" :[
+		{
+			"start_year" : 2020,
+			"start_month" : 09,
+			"start_day" : 14,
+			"end_year" : 2021,
+			"end_month" : 01,
+			"end_day" : 15,
+		},
+	],
+	"d109-2" :[
+		{
+			"start_year" : 2021,
+			"start_month" : 02,
+			"start_day" : 22,
+			"end_year" : 2021,
+			"end_month" : 06,
+			"end_day" : 25,
+		},
+	],
+	"d110-1" :[
+		{
+			"start_year" : 2021,
+			"start_month" : 09,
+			"start_day" : 13,
+			"end_year" : 2022,
+			"end_month" : 01,
+			"end_day" : 14,
+		},
+	],
+	"d110-2" :[
+		{
+			"start_year" : 2022,
+			"start_month" : 02,
+			"start_day" : 21,
+			"end_year" : 2022,
+			"end_month" : 06,
+			"end_day" : 24,
+		},
+	],
 }
