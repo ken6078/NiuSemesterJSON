@@ -6,7 +6,8 @@
 			"start_day" : "14",
 			"end_year" : "2021",
 			"end_month" : "01",
-			"end_day" : "15"
+			"end_day" : "15",
+			"final_semester" : "false"
 		}
 	,
 	"d109-2" :
@@ -16,7 +17,8 @@
 			"start_day" : "22",
 			"end_year" : "2021",
 			"end_month" : "06",
-			"end_day" : "25"
+			"end_day" : "25",
+			"final_semester" : "false"
 		}
 	,
 	"d110-1" :
@@ -26,7 +28,8 @@
 			"start_day" : "13",
 			"end_year" : "2022",
 			"end_month" : "01",
-			"end_day" : "14"
+			"end_day" : "14",
+			"final_semester" : "false"
 		}
 	,
 	"d110-2" :
@@ -36,8 +39,7 @@
 			"start_day" : "21",
 			"end_year" : "2022",
 			"end_month" : "06",
-			"end_day" : "24"
+			"end_day" : "24",
+			"final_semester" : "true"
 		}
-	,
-	"final_semester" : "d110-2",
 }
